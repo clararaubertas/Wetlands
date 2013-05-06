@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x8929288" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>GNOME Inform 7</generator>
+  <activeNode nodeId="node-0x8929288"/>
+  <item nodeId="node-0x8929288">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">
+
+
+The real Crystal City; well, is there such a thing? It&apos;s just something you read about in a children&apos;s book -- a real city couldn&apos;t cure and prevent illness in those who lived there, or keep its glass towers maintained with no one working on them. Even if there is something here, it&apos;s just an ordinary city -- nothing to justify your ever-increasing obsession. Nothing to justify coming so far from your home just to look for it.
+
+Still, that&apos;s what you&apos;ve done so far.
+
+Wetlands
+An Interactive Quagmire by Clara Raubertas
+Release 1 / Serial number 111108 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+First time players type HELP for more instructions.
+
+Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway. 
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest, although a chain-link fence is blocking you from going right up to the pond. 
+
+The ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x89291b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x89291b0">
+    <command xml:space="preserve">hug pipe</command>
+    <result xml:space="preserve">You can only do that to something animate.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x89290d8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x89290d8">
+    <command xml:space="preserve">actions</command>
+    <result xml:space="preserve">Actions listing on.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8929000"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8929000">
+    <command xml:space="preserve">hug pipe</command>
+    <result xml:space="preserve">You can only do that to something animate.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb1906ed8"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb1906ed8">
+    <command xml:space="preserve">hug</command>
+    <result xml:space="preserve">(yourself)
+[kissing yourself]
+You&apos;d have to be a bit more of a contortionist.
+[kissing yourself - failed]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+</Skein>
