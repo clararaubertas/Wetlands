@@ -3,274 +3,274 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6G60</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>"Wetlands" by "Clara Raubertas"</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
     <key>1</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>9</integer>
         <key>Title</key><string>Part - Mechanics</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>2</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>11</integer>
         <key>Title</key><string>Chapter - Release</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>3</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>15</integer>
         <key>Title</key><string>Chapter - Extensions</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>4</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>31</integer>
         <key>Title</key><string>Chapter - Rules and Values</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>5</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>246</integer>
         <key>Title</key><string>Chapter - Kinds</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>6</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>298</integer>
         <key>Title</key><string>Chapter - Scenes</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>7</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>450</integer>
         <key>Title</key><string>Chapter - Liquid Handling</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>8</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>653</integer>
         <key>Title</key><string>Chapter - Train Handling</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>9</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>757</integer>
         <key>Title</key><string>Chapter - Time Handling</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>10</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>790</integer>
         <key>Title</key><string>Chapter - Help Menus</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>11</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
         <key>Line</key><integer>827</integer>
         <key>Title</key><string>Chapter - Scoring</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>12</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>904</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>905</integer>
         <key>Title</key><string>Part - Actual Story</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>13</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>906</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>907</integer>
         <key>Title</key><string>Chapter - Beginning of Play and Every Turn Rules</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>14</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>991</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>992</integer>
         <key>Title</key><string>Chapter - Player and Holdall</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>15</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1037</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1038</integer>
         <key>Title</key><string>Chapter - Places</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>16</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1039</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1040</integer>
         <key>Title</key><string>Section - Outside Waterworks</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>17</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1145</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1142</integer>
         <key>Title</key><string>Section - Pond</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>18</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1200</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1197</integer>
         <key>Title</key><string>Section - Muddy Beach</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>19</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1251</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1248</integer>
         <key>Title</key><string>Section - Boat House</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>20</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1363</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1360</integer>
         <key>Title</key><string>Section - Floating on the Pond</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>21</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1505</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1502</integer>
         <key>Title</key><string>Section - Regions and Everywhere</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>22</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1526</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1523</integer>
         <key>Title</key><string>Section - Inside Waterworks</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>23</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>1908</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>1904</integer>
         <key>Title</key><string>Section - The Hill/The Sweetgum Tree</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>24</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2022</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2018</integer>
         <key>Title</key><string>Section - Pine Forest</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>25</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2064</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2060</integer>
         <key>Title</key><string>Section - Visitor Center</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>26</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2150</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2144</integer>
         <key>Title</key><string>Section - Rocky Beach</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>27</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2338</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2332</integer>
         <key>Title</key><string>Section - Sandy Beach</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>28</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2371</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2365</integer>
         <key>Title</key><string>Section - Freshwater Crossing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>29</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2485</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2479</integer>
         <key>Title</key><string>Section - Grassy Area</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>30</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2539</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2533</integer>
         <key>Title</key><string>Section - Other Side of the Pond</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>31</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2581</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2575</integer>
         <key>Title</key><string>Section - The Woods</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>32</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2671</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2665</integer>
         <key>Title</key><string>Section - Small Clearing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>33</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2869</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2859</integer>
         <key>Title</key><string>Section - Large Clearing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>34</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>2921</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>2911</integer>
         <key>Title</key><string>Section - Control Top</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>35</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>3017</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>3007</integer>
         <key>Title</key><string>Section - The Island</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>36</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>3051</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>3041</integer>
         <key>Title</key><string>Section - Underwater</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>37</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>3142</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>3132</integer>
         <key>Title</key><string>Section - The Crystal City</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
     <key>38</key><dict>
-        <key>Filename</key><string>/home/clara/Test Adventure.inform/Source/story.ni</string>
-        <key>Line</key><integer>3320</integer>
+        <key>Filename</key><string>/home/clara/Software/Inform/wetlands/Wetlands.inform/Source/story.ni</string>
+        <key>Line</key><integer>3310</integer>
         <key>Title</key><string>Section - The Steam Train</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
@@ -1132,865 +1132,879 @@
     <key>161</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
         <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 11/110320 of Small Kindnesses by Aaron Reed begins here</string>
+        <key>Title</key><string>Version 12/111126 of Small Kindnesses by Aaron Reed begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
     <key>162</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>17</integer>
+        <key>Line</key><integer>18</integer>
         <key>Title</key><string>Chapter - Compatibility</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>163</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>19</integer>
+        <key>Line</key><integer>20</integer>
         <key>Title</key><string>Section - Parser Speak (for use without Keyword Interface by Aaron Reed)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>164</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>23</integer>
+        <key>Line</key><integer>24</integer>
         <key>Title</key><string>Chapter - Responses</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>165</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>30</integer>
+        <key>Line</key><integer>31</integer>
         <key>Title</key><string>Chapter - Exit leaves when there's only one way to go</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>166</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>66</integer>
+        <key>Line</key><integer>67</integer>
         <key>Title</key><string>Section A (for use with Modified Exit by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>167</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>70</integer>
+        <key>Line</key><integer>71</integer>
         <key>Title</key><string>Section B (for use without Modified Exit by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>168</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>74</integer>
+        <key>Line</key><integer>75</integer>
         <key>Title</key><string>Chapter - Leaving a named objects (for use without Modified Exit by Emily Short)</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>169</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>87</integer>
+        <key>Line</key><integer>88</integer>
         <key>Title</key><string>Chapter - Go Back returns to previous location</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>170</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>96</integer>
+        <key>Line</key><integer>97</integer>
         <key>Title</key><string>Section - Implementation (for use without Approaches by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>171</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>110</integer>
+        <key>Line</key><integer>111</integer>
         <key>Title</key><string>Section - Implementation (for use with Approaches by Emily Short)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
     <key>172</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>118</integer>
+        <key>Line</key><integer>119</integer>
         <key>Title</key><string>Chapter - Examining the room</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>173</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>126</integer>
-        <key>Title</key><string>Chapter - Show valid directions after going nowhere</string>
+        <key>Line</key><integer>130</integer>
+        <key>Title</key><string>Chapter - Leave to exit</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>174</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>140</integer>
+        <key>Line</key><integer>141</integer>
+        <key>Title</key><string>Chapter - Show valid directions after going nowhere</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>175</key><dict>
+        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
+        <key>Line</key><integer>155</integer>
         <key>Title</key><string>Section - Listing Exits (for use without Keyword Interface by Aaron Reed)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>175</key><dict>
-        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>164</integer>
-        <key>Title</key><string>Chapter - Allow for switching things in darkness</string>
-        <key>Level</key><integer>4</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
     <key>176</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>175</integer>
-        <key>Title</key><string>Chapter - Don't perform implicit actions for doomed tasks</string>
+        <key>Line</key><integer>179</integer>
+        <key>Title</key><string>Chapter - Allow for switching things in darkness</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>177</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
-        <key>Line</key><integer>185</integer>
-        <key>Title</key><string>Chapter - Implement Use verb for common actions</string>
+        <key>Line</key><integer>190</integer>
+        <key>Title</key><string>Chapter - Don't perform implicit actions for doomed tasks</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>178</key><dict>
+        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/small kindnesses.i7x</string>
+        <key>Line</key><integer>200</integer>
+        <key>Title</key><string>Chapter - Implement Use verb for common actions</string>
+        <key>Level</key><integer>4</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>179</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/case management.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Case Management by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>179</key><dict>
+    <key>180</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 9 of Considerate Holdall by Jon Ingold begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>180</key><dict>
+    <key>181</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>9</integer>
         <key>Title</key><string>Section 1 - remembering handled items</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>181</key><dict>
+    <key>182</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>41</integer>
         <key>Title</key><string>Section 2 - Rulebooks, one for each type</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>182</key><dict>
+    <key>183</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>43</integer>
         <key>Title</key><string>part 1 - Holdall rules</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>183</key><dict>
+    <key>184</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>64</integer>
         <key>Title</key><string>part 2 - Stashable object rules</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>184</key><dict>
+    <key>185</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/considerate holdall.i7x</string>
         <key>Line</key><integer>76</integer>
         <key>Title</key><string>section 3 - the main loop</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>185</key><dict>
+    <key>186</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/graham nelson/rideable vehicles.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 3 of Rideable Vehicles by Graham Nelson begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>186</key><dict>
+    <key>187</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 11 of Locksmith by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>187</key><dict>
+    <key>188</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Volume 1 - Automatic locking and unlocking with necessary actions</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>188</key><dict>
+    <key>189</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>59</integer>
         <key>Title</key><string>Volume 2 - Default locking and unlocking</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>189</key><dict>
+    <key>190</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>61</integer>
         <key>Title</key><string>Part 1 - The matching key rule</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>190</key><dict>
+    <key>191</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>93</integer>
         <key>Title</key><string>Part 2 - Unlocking</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>191</key><dict>
+    <key>192</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>95</integer>
         <key>Title</key><string>Section 1 - Regular unlocking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>192</key><dict>
+    <key>193</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>114</integer>
         <key>Title</key><string>Section 2 - Keylessly</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>193</key><dict>
+    <key>194</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>138</integer>
         <key>Title</key><string>Part 3 - Locking</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>194</key><dict>
+    <key>195</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>140</integer>
         <key>Title</key><string>Section 1 - Regular locking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>195</key><dict>
+    <key>196</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>151</integer>
         <key>Title</key><string>Section 2 - Keylessly</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>196</key><dict>
+    <key>197</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>176</integer>
         <key>Title</key><string>Volume 3 - The Passkey kind, needed only if you want keys to name themselves</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>197</key><dict>
+    <key>198</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>204</integer>
         <key>Title</key><string>Volume 4 - The Keychain kind, needed only if you want a keychain</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>198</key><dict>
+    <key>199</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>257</integer>
         <key>Title</key><string>Volume 5 - Support Materials</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>199</key><dict>
+    <key>200</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/locksmith.i7x</string>
         <key>Line</key><integer>317</integer>
         <key>Title</key><string>Volume 6 - Unlocking all - Not for release</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>200</key><dict>
+    <key>201</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 7 of Disambiguation Control by Jon Ingold begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>201</key><dict>
+    <key>202</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>34</integer>
         <key>Title</key><string>Volume - Front End Stuff</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>202</key><dict>
+    <key>203</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>38</integer>
         <key>Title</key><string>Book - New Rulebooks</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>203</key><dict>
+    <key>204</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>40</integer>
         <key>Title</key><string>Chapter - should the game choose ?</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>204</key><dict>
+    <key>205</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>57</integer>
         <key>Title</key><string>Section - what else are we considering ?</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>205</key><dict>
+    <key>206</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>154</integer>
         <key>Title</key><string>Section - some phrases for testing whether we've checking noun or second</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>206</key><dict>
+    <key>207</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>179</integer>
         <key>Title</key><string>Chapter - Should the game suggest ?</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>207</key><dict>
+    <key>208</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>191</integer>
         <key>Title</key><string>Chapter - Initial Expectations</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>208</key><dict>
+    <key>209</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>193</integer>
         <key>Title</key><string>Section - animate contexts</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>209</key><dict>
+    <key>210</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>236</integer>
         <key>Title</key><string>section - opening, locking, closing and unlocking</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>210</key><dict>
+    <key>211</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>262</integer>
         <key>Title</key><string>Section - entering and getting off</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>211</key><dict>
+    <key>212</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>276</integer>
         <key>Title</key><string>Section - wearing, eating</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>212</key><dict>
+    <key>213</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>293</integer>
         <key>Title</key><string>Section - taking, dropping</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>213</key><dict>
+    <key>214</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>324</integer>
         <key>Title</key><string>Section - inserting, putting</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>214</key><dict>
+    <key>215</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>374</integer>
         <key>Title</key><string>Section - giving</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>215</key><dict>
+    <key>216</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>380</integer>
         <key>Title</key><string>Section - removing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>216</key><dict>
+    <key>217</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>400</integer>
         <key>Title</key><string>Section - yourself</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>217</key><dict>
+    <key>218</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>405</integer>
         <key>Title</key><string>Chapter - I7 Functions to Manipulate Sets</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>218</key><dict>
+    <key>219</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>407</integer>
         <key>Title</key><string>Section - is X a subset of Y ?</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>219</key><dict>
+    <key>220</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>414</integer>
         <key>Title</key><string>Section - is X intersect Y non-empty ?</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>220</key><dict>
+    <key>221</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>422</integer>
         <key>Title</key><string>Volume - New Parser Messages</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>221</key><dict>
+    <key>222</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>519</integer>
         <key>Title</key><string>Volume - Backend Stuff</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>222</key><dict>
+    <key>223</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>521</integer>
         <key>Title</key><string>Chapter - The Match list</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>223</key><dict>
+    <key>224</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>525</integer>
         <key>Title</key><string>Section - Building the match list as an I7 list</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>224</key><dict>
+    <key>225</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>540</integer>
         <key>Title</key><string>Section - Guesswork</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>225</key><dict>
+    <key>226</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>569</integer>
         <key>Title</key><string>section - i6 routines for accessing the match list</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>226</key><dict>
+    <key>227</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>606</integer>
         <key>Title</key><string>Book - Parser replacements</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>227</key><dict>
+    <key>228</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>608</integer>
         <key>Title</key><string>Chapter - Noun Domain</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>228</key><dict>
+    <key>229</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>1308</integer>
         <key>Title</key><string>chapter - adjudicate</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>229</key><dict>
+    <key>230</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>1622</integer>
         <key>Title</key><string>Section - ScoreMatchL</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>230</key><dict>
+    <key>231</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>1796</integer>
         <key>Title</key><string>Section - Descriptors</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>231</key><dict>
+    <key>232</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>1882</integer>
         <key>Title</key><string>Section - Parser Lookaheads should tell Choose Objects to behave differently</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>232</key><dict>
+    <key>233</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2011</integer>
         <key>Title</key><string>Section - reset cobj_flags on reparsing (the library should do this anyway, I think)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>4</integer>
     </dict>
-    <key>233</key><dict>
+    <key>234</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2176</integer>
         <key>Title</key><string>Volume - the System for Disambiguation</string>
         <key>Level</key><integer>1</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>234</key><dict>
+    <key>235</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2179</integer>
         <key>Title</key><string>Book - Choose Objects entrypoint</string>
         <key>Level</key><integer>2</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>235</key><dict>
+    <key>236</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2181</integer>
         <key>Title</key><string>Chapter - replacing I7's choose objects routine</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>236</key><dict>
+    <key>237</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2560</integer>
         <key>Title</key><string>Chapter - should the game choose</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>237</key><dict>
+    <key>238</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2605</integer>
         <key>Title</key><string>Chapter - Should the game suggest</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>238</key><dict>
+    <key>239</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2682</integer>
         <key>Title</key><string>Chapter - bypass disambiguate</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>239</key><dict>
+    <key>240</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/jon ingold/disambiguation control.i7x</string>
         <key>Line</key><integer>2715</integer>
         <key>Title</key><string>Chapter - we resolve scores from the three types of test</string>
         <key>Level</key><integer>4</integer>
         <key>Indentation</key><integer>3</integer>
     </dict>
-    <key>240</key><dict>
+    <key>241</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 12/091223 of Default Messages by David Fisher begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>241</key><dict>
+    <key>242</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>6</integer>
         <key>Title</key><string>Part 1 - Definitions</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>242</key><dict>
+    <key>243</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>8</integer>
         <key>Title</key><string>Section 1.1 - Library Message values</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>243</key><dict>
+    <key>244</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>17</integer>
         <key>Title</key><string>Section 1.2 - Defaults</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>244</key><dict>
+    <key>245</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>25</integer>
         <key>Title</key><string>Section 1.3 - Altering messages</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>245</key><dict>
+    <key>246</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>57</integer>
         <key>Title</key><string>Part 2 - Messages</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>246</key><dict>
+    <key>247</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>377</integer>
         <key>Title</key><string>Part 3 - Implementation</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>247</key><dict>
+    <key>248</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>441</integer>
         <key>Title</key><string>Part 4 - Inform 6 interface - unindexed</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>248</key><dict>
+    <key>249</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>1277</integer>
         <key>Title</key><string>Part 5 - Rule handling - unindexed</string>
         <key>Level</key><integer>3</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>249</key><dict>
+    <key>250</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>1279</integer>
         <key>Title</key><string>Section 5.1 - Reporting rules - unindexed</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>250</key><dict>
+    <key>251</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/david fisher/default messages.i7x</string>
         <key>Line</key><integer>1286</integer>
         <key>Title</key><string>Section 5.2 - Internal rules - unindexed</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>2</integer>
     </dict>
-    <key>251</key><dict>
+    <key>252</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
         <key>Line</key><integer>1</integer>
-        <key>Title</key><string>Version 6/110706 of Extended Grammar by Aaron Reed begins here</string>
+        <key>Title</key><string>Version 7/120107 of Extended Grammar by Aaron Reed begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>252</key><dict>
-        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>15</integer>
-        <key>Title</key><string>Section - Extended Grammar for Attack</string>
-        <key>Level</key><integer>5</integer>
-        <key>Indentation</key><integer>1</integer>
-    </dict>
     <key>253</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>22</integer>
-        <key>Title</key><string>Section - Extended Grammar for Burn</string>
+        <key>Line</key><integer>16</integer>
+        <key>Title</key><string>Section - Extended Grammar for Attack</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>254</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>26</integer>
-        <key>Title</key><string>Section - Extended Grammar for Cut</string>
+        <key>Line</key><integer>23</integer>
+        <key>Title</key><string>Section - Extended Grammar for Burn</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>255</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>30</integer>
-        <key>Title</key><string>Section - Extended Grammar for Climb</string>
+        <key>Line</key><integer>27</integer>
+        <key>Title</key><string>Section - Extended Grammar for Cut</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>256</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>37</integer>
-        <key>Title</key><string>Section - Extended Grammar for Drop</string>
+        <key>Line</key><integer>31</integer>
+        <key>Title</key><string>Section - Extended Grammar for Climb</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>257</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>43</integer>
-        <key>Title</key><string>Section - Extended Grammar for Examine</string>
+        <key>Line</key><integer>38</integer>
+        <key>Title</key><string>Section - Extended Grammar for Drop</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>258</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>47</integer>
-        <key>Title</key><string>Section - Extended Grammar for Enter</string>
+        <key>Line</key><integer>44</integer>
+        <key>Title</key><string>Section - Extended Grammar for Examine</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>259</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>57</integer>
-        <key>Title</key><string>Section - Extended Grammar for Exit</string>
+        <key>Line</key><integer>48</integer>
+        <key>Title</key><string>Section - Extended Grammar for Enter</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>260</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>61</integer>
-        <key>Title</key><string>Section - Extended Grammar for Give</string>
+        <key>Line</key><integer>58</integer>
+        <key>Title</key><string>Section - Extended Grammar for Exit</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>261</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>65</integer>
-        <key>Title</key><string>Section - Extended Grammar for Go</string>
+        <key>Line</key><integer>62</integer>
+        <key>Title</key><string>Section - Extended Grammar for Give</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>262</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>74</integer>
-        <key>Title</key><string>Section - Extended Grammar for Listen</string>
+        <key>Line</key><integer>66</integer>
+        <key>Title</key><string>Section - Extended Grammar for Go</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>263</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>78</integer>
-        <key>Title</key><string>Section - Extended Grammar for Look</string>
+        <key>Line</key><integer>75</integer>
+        <key>Title</key><string>Section - Extended Grammar for Listen</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>264</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>83</integer>
-        <key>Title</key><string>Section - Extended Grammar for Pull</string>
+        <key>Line</key><integer>79</integer>
+        <key>Title</key><string>Section - Extended Grammar for Look</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>265</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>87</integer>
-        <key>Title</key><string>Section - Extended Grammar for Push</string>
+        <key>Line</key><integer>84</integer>
+        <key>Title</key><string>Section - Extended Grammar for Pull</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>266</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>91</integer>
-        <key>Title</key><string>Section - Extended Grammar for Put</string>
+        <key>Line</key><integer>88</integer>
+        <key>Title</key><string>Section - Extended Grammar for Push</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>267</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>95</integer>
-        <key>Title</key><string>Section - Extended Grammar for Switch</string>
+        <key>Line</key><integer>92</integer>
+        <key>Title</key><string>Section - Extended Grammar for Put</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>268</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>100</integer>
-        <key>Title</key><string>Section - Extended Grammar for Take</string>
+        <key>Line</key><integer>96</integer>
+        <key>Title</key><string>Section - Extended Grammar for Switch</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>269</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>104</integer>
-        <key>Title</key><string>Section - Extended Grammar for Turn</string>
+        <key>Line</key><integer>101</integer>
+        <key>Title</key><string>Section - Extended Grammar for Take</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>270</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>108</integer>
-        <key>Title</key><string>Section - Extended Grammar for Saying Yes</string>
+        <key>Line</key><integer>105</integer>
+        <key>Title</key><string>Section - Extended Grammar for Turn</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>271</key><dict>
         <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
-        <key>Line</key><integer>112</integer>
-        <key>Title</key><string>Section - Extended Grammar for Throw</string>
+        <key>Line</key><integer>109</integer>
+        <key>Title</key><string>Section - Extended Grammar for Saying Yes</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
     <key>272</key><dict>
+        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
+        <key>Line</key><integer>113</integer>
+        <key>Title</key><string>Section - Extended Grammar for Throw</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>273</key><dict>
+        <key>Filename</key><string>/home/clara/Inform/Extensions/aaron reed/extended grammar.i7x</string>
+        <key>Line</key><integer>117</integer>
+        <key>Title</key><string>Section - Retracted Grammar for Swearing</string>
+        <key>Level</key><integer>5</integer>
+        <key>Indentation</key><integer>1</integer>
+    </dict>
+    <key>274</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 9 of Plurality by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>273</key><dict>
+    <key>275</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>7</integer>
         <key>Title</key><string>Section 1 - Tracking Last Item</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>274</key><dict>
+    <key>276</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>32</integer>
         <key>Title</key><string>Section 2 - Verbs</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>275</key><dict>
+    <key>277</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>120</integer>
         <key>Title</key><string>Section 3 - Pronouns</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>276</key><dict>
+    <key>278</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/plurality.i7x</string>
         <key>Line</key><integer>502</integer>
         <key>Title</key><string>Section 4 - Enumeration</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>277</key><dict>
+    <key>279</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/punctuation removal.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 4 of Punctuation Removal by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>278</key><dict>
+    <key>280</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/punctuation removal.i7x</string>
         <key>Line</key><integer>5</integer>
         <key>Title</key><string>Section 1 - Wrappers</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>279</key><dict>
+    <key>281</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/punctuation removal.i7x</string>
         <key>Line</key><integer>61</integer>
         <key>Title</key><string>Section 2 (for Z-machine only)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>280</key><dict>
+    <key>282</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/punctuation removal.i7x</string>
         <key>Line</key><integer>153</integer>
         <key>Title</key><string>Section 3 (for Glulx only)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>281</key><dict>
+    <key>283</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>Version 7 of Basic Screen Effects by Emily Short begins here</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>
-    <key>282</key><dict>
+    <key>284</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
         <key>Line</key><integer>9</integer>
         <key>Title</key><string>Section 1 - Spacing and Pausing</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>283</key><dict>
+    <key>285</key><dict>
         <key>Filename</key><string>/usr/share/gnome-inform7/Extensions/emily short/basic screen effects.i7x</string>
         <key>Line</key><integer>176</integer>
         <key>Title</key><string>Section 2 (for Z-machine only)</string>
         <key>Level</key><integer>5</integer>
         <key>Indentation</key><integer>1</integer>
     </dict>
-    <key>284</key><dict>
+    <key>286</key><dict>
         <key>Line</key><integer>1</integer>
         <key>Title</key><string>scene understood is a scene which varies</string>
         <key>Level</key><integer>0</integer>

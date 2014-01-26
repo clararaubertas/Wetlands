@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x8929288" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x858db58" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0x8929288"/>
-  <item nodeId="node-0x8929288">
+  <activeNode nodeId="node-0x858db58"/>
+  <item nodeId="node-0x858db58">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -13,7 +13,7 @@ Still, that&apos;s what you&apos;ve done so far.
 
 Wetlands
 An Interactive Quagmire by Clara Raubertas
-Release 1 / Serial number 111108 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Release 1 / Serial number 140126 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 First time players type HELP for more instructions.
 
 Outside Waterworks
@@ -32,12 +32,1685 @@ The ground dips a little on this side of the fence, exposing a large rusty pipe.
     <temporary score="0">NO</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x89291b0"/>
+      <child nodeId="node-0x858da80"/>
+      <child nodeId="node-0x8c1b280"/>
     </children>
   </item>
-  <item nodeId="node-0x89291b0">
-    <command xml:space="preserve">hug pipe</command>
-    <result xml:space="preserve">You can only do that to something animate.
+  <item nodeId="node-0x858da80">
+    <command xml:space="preserve">climb fence</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Muddy Beach
+The pond laps gently up to the pile of brush and sticks accumulated here on the muddy shore. You can see some kind of structure rising out of the pond to the north -- it looks like a small boat-house or spring-house.
+
+Behind you to the east you can climb the fence back to where you came from, and to the northeast the shoreline continues.
+
+You can see a beer bottle (empty) here.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858d9a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858d9a8">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. You can see the structure to the west more clearly now -- it looks like a small boat-house or spring-house -- and it&apos;s probably close enough to wade. 
+
+A wooden drawer is half-buried in the beach.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+A gull swoops down and pecks at the drawer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858d8d0"/>
+      <child nodeId="node-0x8b49bf8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858d8d0">
+    <command xml:space="preserve">x shoreline</command>
+    <result xml:space="preserve">A bunch of small, flat, disclike rocks, worn smooth by the water.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb1b07790"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb1b07790">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">Muddy Beach
+The pond laps gently up to the pile of brush and sticks accumulated here on the muddy shore.  Rising out of the pond to the north, you can see some kind of structure -- it looks like a small boat-house or spring-house.
+
+Behind you to the east you can climb the fence back to where you came from, and to the northeast the shoreline continues.
+
+You can see a beer bottle (empty) here.
+
+You hear a distant train whistle.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858dd08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858dd08">
+    <command xml:space="preserve">x shoreline</command>
+    <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858dde0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858dde0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858deb8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858deb8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You peer into the pond and think about it, but something about the murky depths suggests you&apos;re better off on land.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x858df90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x858df90">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. A wooden drawer is half-buried in the beach. The small structure is visible at the edge of the water to the west.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+A gull swoops down and pecks at the drawer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49898"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49898">
+    <command xml:space="preserve">x rocks</command>
+    <result xml:space="preserve">A bunch of small, flat, disclike rocks, worn smooth by the water.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49970"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49970">
+    <command xml:space="preserve">take rocks</command>
+    <result xml:space="preserve">(one of the small rocks)
+Taken.
+
+A skein of geese passes overhead.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49a48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49a48">
+    <command xml:space="preserve">take rocks</command>
+    <result xml:space="preserve">(the small rock off)
+You&apos;re not wearing that.
+
+The gull tires of the drawer and flaps up and away.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49b20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49b20">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve"></result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x8b49bf8">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(picking up one of the small rocks)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49cd0"/>
+      <child nodeId="node-0x8b594f8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49cd0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding a small rock and a page torn out of a children&apos;s book.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+Both the pockets of your coat are empty.
+
+You hear a distant train whistle.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49da8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49da8">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. A wooden drawer is half-buried in the beach. The small structure is visible at the edge of the water to the west.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49e80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49e80">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(the bunch of rocks)
+(picking up another of the small rocks)
+Taken.
+
+A gull swoops down and pecks at the drawer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b49f58"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b49f58">
+    <command xml:space="preserve">small rock</command>
+    <result xml:space="preserve">I didn&apos;t understand that sentence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b590c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b590c0">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(the bunch of rocks)
+(picking up another of the small rocks)
+(putting the page torn out of a children&apos;s book into nothing to make room)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b59198"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b59198">
+    <command xml:space="preserve">take small rock</command>
+    <result xml:space="preserve">(the small rock)
+You already have that.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b59270"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b59270">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding three small rocks.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket is a page torn out of a children&apos;s book.
+
+The gull tires of the drawer and flaps up and away.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b59348"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b59348">
+    <command xml:space="preserve">take small rock</command>
+    <result xml:space="preserve">(the small rock)
+You already have that.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b59420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b59420">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding three small rocks.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket is a page torn out of a children&apos;s book.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x8b594f8">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(the bunch of rocks)
+(picking up another of the small rocks)
+Taken.
+
+You hear a distant train whistle.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b595d0"/>
+      <child nodeId="node-0x8b87188"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b595d0">
+    <command xml:space="preserve">take small rock</command>
+    <result xml:space="preserve">(the small rock)
+(picking up another of the small rocks)
+(putting the page torn out of a children&apos;s book into nothing to make room)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b596a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b596a8">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding three small rocks.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket is a page torn out of a children&apos;s book.
+
+A gull swoops down and pecks at the drawer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b59780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b59780">
+    <command xml:space="preserve">drop rock</command>
+    <result xml:space="preserve">(the small rock)
+Dropped.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b778e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b778e0">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">What do you want to take: a small rock or the bunch of rocks?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b779b8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b779b8">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. A wooden drawer is half-buried in the beach. The small structure is visible at the edge of the water to the west.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+You can see a small rock and a gull here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77a90">
+    <command xml:space="preserve">take the small rock</command>
+    <result xml:space="preserve">(the small rock)
+Taken.
+
+The gull tires of the drawer and flaps up and away.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77b68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77b68">
+    <command xml:space="preserve">take another small rock</command>
+    <result xml:space="preserve">(the small rock)
+(picking up another of the small rocks)
+(putting the small rock into nothing to make room)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77c40">
+    <command xml:space="preserve">take yet another small rock!</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77d18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77d18">
+    <command xml:space="preserve">take a small rock</command>
+    <result xml:space="preserve">(the small rock)
+(picking up another of the small rocks)
+(putting the small rock into nothing to make room)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77df0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77df0">
+    <command xml:space="preserve">take a disc</command>
+    <result xml:space="preserve">(the small rock)
+(picking up another of the small rocks)
+You probably have enough. You have better things to do than cart rocks around all day.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77ec8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77ec8">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding three small rocks.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket are two small rocks and a page torn out of a children&apos;s book.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b77fa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b77fa0">
+    <command xml:space="preserve">skip rock</command>
+    <result xml:space="preserve">(the small rock)
+You must supply a second noun.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b870b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b870b0">
+    <command xml:space="preserve">skip</command>
+    <result xml:space="preserve">You jump on the spot, fruitlessly.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x8b87188">
+    <command xml:space="preserve">skip rock</command>
+    <result xml:space="preserve">(the small rock)
+You skip the small, disclike rock across the smooth service of the water -- 3 hops.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b87260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b87260">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(the bunch of rocks)
+(picking up another of the small rocks)
+Taken.
+
+A gull swoops down and pecks at the drawer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b87338"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b87338">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening the door to the structure)
+(first unlocking the door to the structure)
+Damn. It&apos;s locked.
+
+A skein of geese passes overhead.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b87410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b87410">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway.
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest. A chain-link fence is blocking you from going up to the edge of the pond; the ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b874e8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b874e8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond. Some twisty, broken stairs lead down to the southwest, to the east is a small brick building, to the north is the path back to the Waterworks, and to the southeast is a dense grove of pine trees.
+
+You can see a bench here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b875c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b875c0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Visitor Center
+This one-room brick building is paneled on the inside with thick slabs of wood; sunlight through the single window reflects lustrously off the panels. Against one of the walls is an old vending machine and a shelf.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b87698"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b87698">
+    <command xml:space="preserve">put rock in machine</command>
+    <result xml:space="preserve">(the small rock in the vending machine)
+It slips smoothly into the machine, and you hear a click.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b87770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b87770">
+    <command xml:space="preserve">open machine</command>
+    <result xml:space="preserve">You open the vending machine, revealing a ticket and a newspaper.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b970d8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b970d8">
+    <command xml:space="preserve">take ticket</command>
+    <result xml:space="preserve">[Your score has just gone up by two points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b971b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b971b0">
+    <command xml:space="preserve">take newspaper</command>
+    <result xml:space="preserve">(putting the page torn out of a children&apos;s book into nothing to make room)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b97288"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b97288">
+    <command xml:space="preserve">x window</command>
+    <result xml:space="preserve">A large multi-paned window, slightly dusty, but still admitting plenty of sunlight -- outside, you catch a glimpse of a carpet of leaves.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b97360"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b97360">
+    <command xml:space="preserve">dust window</command>
+    <result xml:space="preserve">You wipe off some of the dust, but the only result is a clearer view of the hill outside.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b97438"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b97438">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">(that is, west)
+
+Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond. Some twisty, broken stairs lead down to the southwest, to the east is a small brick building, to the north is the path back to the Waterworks, and to the southeast is a dense grove of pine trees.
+
+You can see a bench here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b97510"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b97510">
+    <command xml:space="preserve">x ticket</command>
+    <result xml:space="preserve">A little torn, but still good -- in fact, it&apos;s a monthly pass with a week left on it.
+
+You hear a faint tinkling sound.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b975e8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b975e8">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">Freshwater Crossing
+Two slim, papery birch trees flank a set of rusty, vine-covered railroad tracks at the bottom of the hill. A sign reading &quot;FRESHWATER CROSSING&quot; hangs crookedly from one of the trees.
+
+Twisty stairs lead up to the northeast, and to the northwest is a grassy area. To the east and south are dense, gnarled pine trees.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b976c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b976c0">
+    <command xml:space="preserve">x watch</command>
+    <result xml:space="preserve">Supposedly waterproof up to 300 feet. The time reads nineteen after.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8b97798"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8b97798">
+    <command xml:space="preserve">x schedule</command>
+    <result xml:space="preserve">That noun did not make sense in this context.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb50c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb50c0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding a newspaper, a ticket and a small rock.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket is a page torn out of a children&apos;s book.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb5198"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb5198">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb5270"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb5270">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb5348"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb5348">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+You hear an approaching train whistle.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb5420"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb5420">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb54f8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb54f8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+A mysterious steam train comes hurtling in your direction!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb55d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb55d0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+A skein of geese passes overhead.
+
+A mysterious steam train pulls up and stops in front of you!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb56a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb56a8">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bb5780"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bb5780">
+    <command xml:space="preserve">get in train</command>
+    <result xml:space="preserve">Steam Train
+The train is outfitted on the inside with several seats, each upholstered in a dingy rust-colored corduroy at least twenty years old. At one end of the car is an access panel in dull, dented metal. 
+
+Outside the window you can see Freshwater Crossing.
+
+You can see a conductor here.
+
+[Your score has just gone up by one point.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc48e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc48e0">
+    <command xml:space="preserve">talk to conductor</command>
+    <result xml:space="preserve">To start a conversation, try to ASK the conductor ABOUT something or TELL the conductor ABOUT something.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc49b8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc49b8">
+    <command xml:space="preserve">ask conductor about schedule</command>
+    <result xml:space="preserve">There oughtta be a schedule at the visitor center.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4a90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4a90">
+    <command xml:space="preserve">ask conductor about self</command>
+    <result xml:space="preserve">&quot;I&apos;m Eric! Pleased to meetcha!&quot; He shakes your hand vigorously.
+
+The train hurtles away, taking you with it!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4b68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4b68">
+    <command xml:space="preserve">ask eric about train</command>
+    <result xml:space="preserve">&quot;Now there&apos;s something I know about!&quot; The conductor smiles, and gets a glazed look in his eye; in fact, now that he&apos;s on his favorite subject, he doesn&apos;t seem to be paying attention to anything you&apos;re doing. &quot;Now this one we&apos;re riding is the PX1105; she has a rolling resistance of about 0.0005, which means she has to be pretty heavy to get enough traction. Almost three tons! Steam-powered, of course; there are those who say it&apos;s obsolete, but give me a taper boiler like this one any day.&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4c40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4c40">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You sneak a glance at the conductor -- he&apos;s still wrapped up talking about trains, and doesn&apos;t seem to be paying attention to you. Feeling a bit guilty, you open the access panel, revealing a flashlight, a screwdriver and a wrench.
+
+&quot;This track here is narrow gauge; it&apos;s just local, so we don&apos;t join up with the national system or anything. Oh, and check out this rolling stock!&quot; He kicks the floor of the train with a pleased smile. &quot;Decades old and still solid as a rock. All steel!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4d18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4d18">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">flashlight: (putting the small rock into nothing to make room)
+Taken.
+screwdriver: (putting the newspaper into nothing to make room)
+Taken.
+wrench: (putting the ticket into nothing to make room)
+Taken.
+
+&quot;This locomotive is a 2-6-2, you know. Originally designed to work with a tender, but we just refill the boiler every run since we have plenty o&apos; water around here! And we got a mechanical stoker, so I can take a break from that to come out here and talk the ears off of the passengers.&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4df0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4df0">
+    <command xml:space="preserve">x eric</command>
+    <result xml:space="preserve">An affable young man with reddish hair and a redder droopy mustache; he is wearing pants that are slightly too big for him, suspenders, and a striped cap. He seems completely oblivious to you now that he&apos;s talking about trains.
+
+The train starts to slow down.
+
+The conductor seems to remember where he is, with a bit of a start. &quot;Oh, sorry for boring you with all that. Sometimes I forget not everyone finds this stuff so fascinatin&apos;!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4ec8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4ec8">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">The conductor catches what you&apos;re doing and stops you. &quot;Hey! That&apos;s train property, that is!&quot;
+
+The train comes to a halt.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bc4fa0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bc4fa0">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding a wrench, a screwdriver and a flashlight.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket are a ticket, a newspaper, a small rock and a page torn out of a children&apos;s book.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd38a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd38a0">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Other Side of the Pond
+A foggy clearing in the woods that fades out into a small, dirty beach -- the railroad tracks pass through, entwined in purple viburnum vines, straight lines over the damp ground. 
+
+To the east is the shore of the familiar pond, with a few stone steps leading into the misty water, and in every other direction, dense woods. Water is trickling faintly onto the wet steps from underground.
+
+A train is stopped on the tracks, puffing steam.
+
+A dense patch of mist passes through you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3978"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3978">
+    <command xml:space="preserve">get on train</command>
+    <result xml:space="preserve">You try to get on the train, but the conductor shakes his head and blocks your way. &quot;Sorry, friend! I&apos;d love to let you on, but you gotta have a ticket.&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3a50">
+    <command xml:space="preserve">take ticket</command>
+    <result xml:space="preserve">(putting the wrench into nothing to make room)
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3b28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3b28">
+    <command xml:space="preserve">get on train</command>
+    <result xml:space="preserve">Steam Train
+The train is outfitted on the inside with several seats, each upholstered in a dingy rust-colored corduroy at least twenty years old. At one end of the car is an access panel in dull, dented metal. 
+
+Outside the window you can see a misty clearing.
+
+You can see a conductor here.
+
+The train hurtles away, taking you with it!
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3c00">
+    <command xml:space="preserve">x panel</command>
+    <result xml:space="preserve">The handle of the panel is bent and twisted, and there&apos;s a substantial dent in the side of the panel.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3cd8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3cd8">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">The conductor catches what you&apos;re doing and stops you. &quot;Hey! That&apos;s train property, that is!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3db0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3db0">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3e88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3e88">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8bd3f60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8bd3f60">
+    <command xml:space="preserve">z</command>
+    <result xml:space="preserve">Time passes.
+
+The train starts to slow down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be40b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be40b0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Steam Train
+The train is outfitted on the inside with several seats, each upholstered in a dingy rust-colored corduroy at least twenty years old. At one end of the car is an access panel in dull, dented metal. 
+
+Outside the windows you can see trees zooming by, with an occasional glimpse of pond between them.
+
+You can see a conductor here.
+
+The train comes to a halt.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4188"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4188">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Steam Train
+The train is outfitted on the inside with several seats, each upholstered in a dingy rust-colored corduroy at least twenty years old. At one end of the car is an access panel in dull, dented metal. 
+
+Outside the window you can see Freshwater Crossing.
+
+You can see a conductor here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4260"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4260">
+    <command xml:space="preserve">out</command>
+    <result xml:space="preserve">Freshwater Crossing
+Two slim, papery birch trees flank a set of rusty, vine-covered railroad tracks at the bottom of the hill. A sign reading &quot;FRESHWATER CROSSING&quot; hangs crookedly from one of the trees.
+
+Twisty stairs lead up to the northeast, and to the northwest is a grassy area. To the east and south are dense, gnarled pine trees.
+
+A train is stopped on the tracks, puffing steam.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4338"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4338">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond. Some twisty, broken stairs lead down to the southwest, to the east is a small brick building, to the north is the path back to the Waterworks, and to the southeast is a dense grove of pine trees.
+
+You can see a bench here.
+
+A series of indistinct chimes sound.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4410">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+You hear a faint tinkling sound.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be44e8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be44e8">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+A series of indistinct chimes sound.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be45c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be45c0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+A single &quot;tink!&quot; breaks the silence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4698"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4698">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8be4770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8be4770">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+A series of indistinct chimes sound.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c058a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c058a0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Visitor Center
+This one-room brick building is paneled on the inside with thick slabs of wood; sunlight through the single window reflects lustrously off the panels. Against one of the walls is an old vending machine and a shelf.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05978"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05978">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">That way is only a wall.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05a50">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond. Some twisty, broken stairs lead down to the southwest, to the east is a small brick building, to the north is the path back to the Waterworks, and to the southeast is a dense grove of pine trees.
+
+You can see a bench here.
+
+A single &quot;tink!&quot; breaks the silence.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05b28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05b28">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">In that direction the hill drops precipitously down -- too precipitously to risk -- directly into the pond, a tumble of rocks and mud and tree roots and strange little marsh plants.
+
+A series of indistinct chimes sound.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05c00">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway.
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest. A chain-link fence is blocking you from going up to the edge of the pond; the ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05cd8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05cd8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Muddy Beach
+The pond laps gently up to the pile of brush and sticks accumulated here on the muddy shore.  Rising out of the pond to the north, you can see some kind of structure -- it looks like a small boat-house or spring-house.
+
+Behind you to the east you can climb the fence back to where you came from, and to the northeast the shoreline continues.
+
+You can see a beer bottle (empty) here.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05db0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05db0">
+    <command xml:space="preserve">open structure</command>
+    <result xml:space="preserve">From here, you&apos;d have to swim to the structure, but you could probably get close enough to wade from up the shore to the northeast.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05e88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05e88">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway.
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest. A chain-link fence is blocking you from going up to the edge of the pond; the ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c05f60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c05f60">
+    <command xml:space="preserve">open structure</command>
+    <result xml:space="preserve">You&apos;d have to get up to the edge of the pond first.
+
+You hear a distant train whistle.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c1b0d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c1b0d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Muddy Beach
+The pond laps gently up to the pile of brush and sticks accumulated here on the muddy shore.  Rising out of the pond to the north, you can see some kind of structure -- it looks like a small boat-house or spring-house.
+
+Behind you to the east you can climb the fence back to where you came from, and to the northeast the shoreline continues.
+
+You can see a beer bottle (empty) here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c1b1a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c1b1a8">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. A wooden drawer is half-buried in the beach. The small structure is visible at the edge of the water to the west.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+You can see a gull here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x8c1b280">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway. 
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest, although a chain-link fence is blocking you from going right up to the pond. 
+
+The ground dips a little on this side of the fence, exposing a large rusty pipe.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -46,12 +1719,24 @@ The ground dips a little on this side of the fence, exposing a large rusty pipe.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x89290d8"/>
+      <child nodeId="node-0x8c1b358"/>
     </children>
   </item>
-  <item nodeId="node-0x89290d8">
-    <command xml:space="preserve">actions</command>
-    <result xml:space="preserve">Actions listing on.
+  <item nodeId="node-0x8c1b358">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">Wetlands is an interactive quagmire, interactive fiction, or text adventure game. 
+
+If you&apos;re new to the genre: Emily Short has written a great introduction to playing IF, available at http://inform-fiction.org/I7Downloads/Examples/dm/IntroductionToIF.pdf. 
+
+More specifically: try simple commands like GO NORTH, EXAMINE RIGHT POCKET, ASK SOMEONE ABOUT SOMETHING, INVENTORY, SLEEP, WAIT X MINUTES, PUSH SOMETHING, CLIMB SOMETHING, TURN SOMETHING ON, JUMP, SCORE, UNDO and more... 
+
+There are not actually any time limits in this game. Nothing important will pass you by irrevocably, and it shouldn&apos;t be possible to get yourself really stuck (unless you do something obviously dumb like throw out stuff you&apos;ve found). There are fatal mistakes, but it should be clear when you&apos;re about to make them and you can always UNDO if necessary. Or SAVE your game to a file to return to your current situation later. 
+
+Places you&apos;ve been, things you&apos;ve seen, and people  you&apos;ve talked to may change somewhat as your actions in-game affect them and their situations, so you should occasionally wander back to places you&apos;ve already been, and places that might have seemed like dead ends may open up as you change the state of the world. 
+
+If you&apos;re stuck, try opening things, examining things, going in all the directions you can, thinking of unique ways objects can be used, revisiting old locations to see if your actions have changed them... and if all else fails, email the author for hints at clara.raubertas@gmail.com. 
+
+Type CREDITS for game credits.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -60,12 +1745,14 @@ The ground dips a little on this side of the fence, exposing a large rusty pipe.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x8929000"/>
+      <child nodeId="node-0x8c1b430"/>
     </children>
   </item>
-  <item nodeId="node-0x8929000">
-    <command xml:space="preserve">hug pipe</command>
-    <result xml:space="preserve">You can only do that to something animate.
+  <item nodeId="node-0x8c1b430">
+    <command xml:space="preserve">score</command>
+    <result xml:space="preserve">Things seem to be still on dry land right now!
+
+Nothing very interesting has happened yet -- your score is 0 out of 100.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -74,15 +1761,1009 @@ The ground dips a little on this side of the fence, exposing a large rusty pipe.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xb1906ed8"/>
+      <child nodeId="node-0x8c1b508"/>
     </children>
   </item>
-  <item nodeId="node-0xb1906ed8">
-    <command xml:space="preserve">hug</command>
-    <result xml:space="preserve">(yourself)
-[kissing yourself]
-You&apos;d have to be a bit more of a contortionist.
-[kissing yourself - failed]
+  <item nodeId="node-0x8c1b508">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames a closed door; a water fountain stands to one side in the archway. 
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest, although a chain-link fence is blocking you from going right up to the pond. 
+
+The ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c1b5e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c1b5e0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the door to the Waterworks)
+Inside Waterworks
+A spacious interior, with bare brick walls supported by metal girders. To the west is the door back outside, and an unsteady-looking spiral staircase in a corner leads down.
+
+A tall cylinder full of bubbling water stands in a corner.
+
+A woman is sitting at a simple metal desk, carefully sketching something in a notebook. A nameplate on the desk reads &quot;Secretary of Water, Pondside Waterworks&quot;.
+
+The woman looks up and smiles at you. &quot;Can I help you?&quot;
+
+The Secretary of Water steals a glance at the page you are holding, then turns back to her notebook, blushing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c1b6b8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c1b6b8">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">&quot;Wait!&quot; says the Secretary of Water. &quot;You&apos;re not allowed down there.&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c1b790"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c1b790">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You ignore the secretary&apos;s warning, and clatter down the twisting staircase. You start to slip, but catch yourself just in time.
+
+Pump Room
+The basement of the Waterworks, concrete on every side, windowless, and waterstained; almost the entire room is taken up by a large device.
+
+The spiral staircase leads back up to the main building.
+
+The Secretary of Water leans down over the top of the staircase and looks at you.
+
+The Secretary of Water peers at what you are doing. &quot;Could you please leave that thing to the technicians?&quot;
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2b8b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2b8b0">
+    <command xml:space="preserve">x device</command>
+    <result xml:space="preserve">A large, complex pump of some kind -- covered in gadgets and gizmos and levers and wires and hoses.
+
+The complicated pump is currently switched off.
+
+The Secretary of Water leans down over the top of the staircase and looks at you.
+
+She drums her fingers on the railing. &quot;I&apos;m really not supposed to let you mess with the pump!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2b988"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2b988">
+    <command xml:space="preserve">turn on pump</command>
+    <result xml:space="preserve">You consider yourself pretty good with technology, but you&apos;re not really sure which of the levers or gizmos or gadgets you should manipulate.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2ba60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2ba60">
+    <command xml:space="preserve">x gadgets</command>
+    <result xml:space="preserve">There is a single gadget on the pump: some kind of security gadget, with a keyhole in it, and featuring three small warning lights that are blinking ominously.
+
+The Secretary of Water leans down over the top of the staircase and looks at you.
+
+&quot;Um, could you...?&quot; says the Secretary of Water anxiously.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2bb38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2bb38">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">You make your way up the treacherous stairs.
+
+The Secretary of Water unclenches her hands and returns to her desk. &quot;Thank you!,&quot; she says.
+
+Inside Waterworks
+A spacious interior, with bare brick walls supported by metal girders. To the west is the door back outside, and an unsteady-looking spiral staircase in a corner leads down.
+
+A tall cylinder full of bubbling water stands in a corner.
+
+The Secretary of Water is sitting at a simple metal desk, carefully sketching something in a notebook. A nameplate on the desk reads &quot;Secretary of Water, Pondside Waterworks&quot;.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2bc10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2bc10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames an open door; a water fountain stands to one side in the archway. 
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest, although a chain-link fence is blocking you from going right up to the pond. 
+
+The ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2bce8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2bce8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">The chain-link fence blocks your way.
+
+A skein of geese passes overhead.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2bdc0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2bdc0">
+    <command xml:space="preserve">climb fence</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Muddy Beach
+The pond laps gently up to the pile of brush and sticks accumulated here on the muddy shore. You can see some kind of structure rising out of the pond to the north -- it looks like a small boat-house or spring-house.
+
+Behind you to the east you can climb the fence back to where you came from, and to the northeast the shoreline continues.
+
+You can see a beer bottle (empty) here.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2be98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2be98">
+    <command xml:space="preserve">take bottle</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c2bf70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c2bf70">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Rocky Beach
+A small strip of shoreline, littered with small disclike rocks; sunlight strikes the rippling pond. You can see the structure to the west more clearly now -- it looks like a small boat-house or spring-house -- and it&apos;s probably close enough to wade. 
+
+A wooden drawer is half-buried in the beach.
+
+The shoreline continues to the southwest and to the northeast, and behind you to the south and east is a chain-link fence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49898"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49898">
+    <command xml:space="preserve">take rock</command>
+    <result xml:space="preserve">(picking up one of the small rocks)
+Taken.
+
+A gull swoops down and pecks at the drawer.
+
+A murmuration of starlings flies by you.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49970"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49970">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You peer into the pond and think about it, but something about the murky depths suggests you&apos;re better off on land.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49a48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49a48">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Sandy Beach
+The rocks get sparser until here there is only sand, fading under the water into the pond. 
+
+The shoreline continues to the southwest and northeast, and the fence is to the south and east.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49b20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49b20">
+    <command xml:space="preserve">dig</command>
+    <result xml:space="preserve">What do you want to dig in?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49bf8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49bf8">
+    <command xml:space="preserve">sand</command>
+    <result xml:space="preserve">You try digging in the sand, but without having a better idea of where to dig, you aren&apos;t that likely to find anything.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49cd0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49cd0">
+    <command xml:space="preserve">dig in sand</command>
+    <result xml:space="preserve">You try digging in the sand, but without having a better idea of where to dig, you aren&apos;t that likely to find anything.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49da8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49da8">
+    <command xml:space="preserve">x sand</command>
+    <result xml:space="preserve">Fine white grains.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49e80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49e80">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You manage to pull yourself up to the top of the fence and drop down on the other side, without causing yourself too much damage.
+
+Outside Waterworks
+You are standing on a paved path leading uphill to the south and downhill to the north.
+
+To the east is a broad brick building on which a lighted archway frames an open door; a water fountain stands to one side in the archway. 
+
+To the west you can see what looks like a pond, with a small structure rising from the water to the northwest, although a chain-link fence is blocking you from going right up to the pond. 
+
+The ground dips a little on this side of the fence, exposing a large rusty pipe.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c49f58"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c49f58">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond.
+
+Some twisty, broken stairs lead down to the southwest; to the east is a small brick building; to the north is the path back to the Waterworks; and to the south is a dense grove of pine trees.
+
+You can see a bench here.
+
+You hear a faint tinkling sound.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c598d8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c598d8">
+    <command xml:space="preserve">climb tree</command>
+    <result xml:space="preserve">You try to grab the bottom branch, but you&apos;re just a foot or so short of being able to reach it.
+
+A single &quot;tink!&quot; breaks the silence.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c599b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c599b0">
+    <command xml:space="preserve">jump</command>
+    <result xml:space="preserve">You leap up from the ground and try to grab the bottom branch of the tree, but your fingers just brush it and you can&apos;t get a grip.
+
+You hear a distant train whistle.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59a88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59a88">
+    <command xml:space="preserve">stand on bench</command>
+    <result xml:space="preserve">You get onto the bench.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59b60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59b60">
+    <command xml:space="preserve">climb tree</command>
+    <result xml:space="preserve">From your position standing on the bench, you are just able to reach the bottom branch, and scramble up.
+
+In The Sweetgum Tree
+You are hanging on to the lowest branches of the crimson and ochre tree, far above the blue curve of the pond.
+
+You can see some metal wind chimes here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59c38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59c38">
+    <command xml:space="preserve">take chimes</command>
+    <result xml:space="preserve">(the metal wind chimes)
+Taken.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59d10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59d10">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You clamber down from the tree.
+
+Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond.
+
+Some twisty, broken stairs lead down to the southwest; to the east is a small brick building; to the north is the path back to the Waterworks; and to the south is a dense grove of pine trees.
+
+You can see a bench here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59de8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59de8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Visitor Center
+This one-room brick building is paneled on the inside with thick slabs of wood; sunlight through the single window reflects lustrously off the panels. Against one of the walls is an old vending machine and a shelf.
+
+On the shelf are a pamphlet and a train schedule.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59ec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59ec0">
+    <command xml:space="preserve">put rock in machine</command>
+    <result xml:space="preserve">It slips smoothly into the machine, and you hear a click.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c59f98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c59f98">
+    <command xml:space="preserve">open machine</command>
+    <result xml:space="preserve">You open the vending machine, revealing a ticket and a newspaper.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c698b8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c698b8">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">ticket: Taken.
+newspaper: (putting the page torn out of a children&apos;s book into nothing to make room)
+Taken.
+pamphlet: (putting the beer bottle into nothing to make room)
+Taken.
+train schedule: (putting the metal wind chimes into nothing to make room)
+Taken.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69990"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69990">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Hill
+You are standing on the top of a small hill, overlooking the pond. The hill stretches out, covered in a carpet of brown and yellow leaves. A lone sweetgum tree stands atop the hill, and just under the tree, a bench faces northwest out over the pond.
+
+Some twisty, broken stairs lead down to the southwest; to the east is a small brick building; to the north is the path back to the Waterworks; and to the south is a dense grove of pine trees.
+
+You can see a bench here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69a68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69a68">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Pine Forest
+A dense grove of twisty tall pine trees, pine sap oozing out in clumps from between cracks in their rough bark. The ground is covered in a carpet of soft pine needles, dotted with pinecones.
+
+The forest opens up to the north, back to the hill, and slopes down to the west, where you can see railroad tracks.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69b40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69b40">
+    <command xml:space="preserve">take sap with bottle</command>
+    <result xml:space="preserve">You scrape a clump of sticky sap into the bottle.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69c18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69c18">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Freshwater Crossing
+Two slim, papery birch trees flank a set of rusty, vine-covered railroad tracks at the bottom of the hill. A sign reading &quot;FRESHWATER CROSSING&quot; hangs crookedly from one of the trees.
+
+Twisty stairs lead up to the northeast, and to the southwest is a grassy area. To the east are dense, gnarled pine trees.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69cf0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69cf0">
+    <command xml:space="preserve">wait for train</command>
+    <result xml:space="preserve">You stand around, keeping an eye out for the train.
+
+You hear an approaching train whistle.
+
+A steam train comes barreling down the tracks in your direction.
+
+A train pulls up and stops in front of you.
+
+Leaves waft intermittently to the ground.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69dc8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69dc8">
+    <command xml:space="preserve">get on train</command>
+    <result xml:space="preserve">Steam Train
+The train is outfitted on the inside with several seats, each upholstered in a dingy rust-colored corduroy at least twenty years old. At one end of the car is an access panel in dull, dented metal. 
+
+Outside the window you can see Freshwater Crossing.
+
+You can see a conductor here.
+
+The conductor checks your ticket, and smiles at you. &quot;Thanks, friend!&quot; he says.
+
+[Your score has just gone up by two points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69ea0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69ea0">
+    <command xml:space="preserve">ask him about trains</command>
+    <result xml:space="preserve">&quot;Trains! Now there&apos;s something I know about!&quot; The conductor smiles, and gets a glazed look in his eye; in fact, now that he&apos;s on his favorite subject, he doesn&apos;t seem to be paying attention to anything you&apos;re doing.
+
+&quot;Now this one we&apos;re riding is the PX1105; she has a rolling resistance of about 0.0005, which means she has to be pretty heavy to get enough traction. Almost three tons! Steam-powered, of course; there are those who say it&apos;s obsolete, but give me a taper boiler like this one any day.&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c69f78"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c69f78">
+    <command xml:space="preserve">open panel</command>
+    <result xml:space="preserve">You sneak a glance at the conductor -- he&apos;s still wrapped up talking about trains, and doesn&apos;t seem to be paying attention to you. Feeling a bit guilty, you open the access panel, revealing a flashlight, a screwdriver and a wrench.
+
+The train rolls away, taking you with it.
+
+&quot;This track here is narrow gauge; it&apos;s just Pondside local, so we don&apos;t join up with the national system or anything. Oh, and check out this rolling stock!&quot; He kicks the floor of the train with a pleased smile. &quot;Decades old and still solid as a rock. All steel!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c790e0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c790e0">
+    <command xml:space="preserve">take all</command>
+    <result xml:space="preserve">flashlight: (putting the train schedule into nothing to make room)
+Taken.
+screwdriver: (putting the pamphlet into nothing to make room)
+Taken.
+wrench: (putting the ticket into nothing to make room)
+Taken.
+
+&quot;This locomotive is a 2-6-2, you know. Originally designed to work with a tender, but we just refill the boiler every run since we have plenty of water around here! And we got a mechanical stoker, so I can take a break from that to come out here and talk the ears off of the passengers.&quot;
+
+[Your score has just gone up by six points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c791b8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c791b8">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are holding a wrench, a screwdriver, a flashlight and a newspaper.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The left pocket of your coat is empty, and in the right pocket are a ticket, a pamphlet, a train schedule, some metal wind chimes, a beer bottle (containing a clump of sap) and a page torn out of a children&apos;s book.
+
+The conductor seems to remember where he is, with a bit of a start. &quot;Oh, sorry for boring you with all that. Sometimes I forget not everyone finds this stuff so fascinating!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c79290"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c79290">
+    <command xml:space="preserve">put all in left pocket</command>
+    <result xml:space="preserve">wrench: Done.
+screwdriver: Done.
+flashlight: Done.
+newspaper: Done.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c79368"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c79368">
+    <command xml:space="preserve">x watch</command>
+    <result xml:space="preserve">Supposedly waterproof up to 300 feet. The time reads fifty-four after.
+
+The train starts to slow down.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c79440"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c79440">
+    <command xml:space="preserve">x me</command>
+    <result xml:space="preserve">You&apos;ve always considered yourself pretty average in the physical department  -- average height, average build, average looks. Maybe a little more athletic than the average person, or with a slightly better sense of direction.
+
+You are wearing your tall rubber boots, your coat and a watch.
+
+The train comes to a halt.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c79518"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c79518">
+    <command xml:space="preserve">get out</command>
+    <result xml:space="preserve">Other Side of the Pond
+A foggy clearing in the woods that fades out into a small, dirty beach -- the railroad tracks pass through, entwined in purple viburnum vines, straight lines over the damp ground. 
+
+To the east is the shore of the familiar pond, with a few stone steps leading into the misty water, and in every other direction, you can enter the dense woods. Water is trickling faintly onto the wet steps from underground.
+
+A train is stopped on the tracks, puffing steam.
+
+[Your score has just gone up by five points.]
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c795f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c795f0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Woods
+You are surrounded by colorful sweetgum and birch trees, and small rocks and boulders dot the ground underfoot, breaking up the monotony of the damp mat of red and brown leaves.
+
+The trees cluster around you into a dense mesh. You could probably push your way through them in any direction, but they&apos;re so uniform that you can&apos;t visually distinguish which way leads anywhere except to more woods.
+
+You can see a dog here.
+
+The dog chases its own tail.
+
+From the east, you can feel a misty chill.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c796c8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c796c8">
+    <command xml:space="preserve">follow dog</command>
+    <result xml:space="preserve">The dog is right here.
+
+To the east you think you can hear the faint lapping of the pond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c797a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c797a0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Woods
+You are surrounded by colorful sweetgum and birch trees, and small rocks and boulders dot the ground underfoot, breaking up the monotony of the damp mat of red and brown leaves.
+
+The trees cluster around you into a dense mesh. You could probably push your way through them in any direction, but they&apos;re so uniform that you can&apos;t visually distinguish which way leads anywhere except to more woods.
+
+You can see a dog here.
+
+The dog wags its tail.
+
+From the east, you can feel a misty chill.
+
+The dog looks up at you expectantly.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c988a0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c988a0">
+    <command xml:space="preserve">follow dog</command>
+    <result xml:space="preserve">The dog is right here.
+
+The dog trots away to the northwest.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c98978"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c98978">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Small Clearing
+You are in a small opening in the otherwise almost impassably dense forest; someone appears to have chopped down a few trees to create some space directly around a particular large boulder -- the space is partially filled with a small cinderblock hut. 
+
+The opening gets larger to the southwest, and in every other direction, you see only the dense woods.
+
+You can see a dog here.
+
+The dog wags its tail.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c98a50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c98a50">
+    <command xml:space="preserve">x splash</command>
+    <result xml:space="preserve">It&apos;s quite tastefully and realistically done, at least as far as the medium of spray paint allows; the bright blue and white colors accurately portray a splash of fresh water.
+
+Now that you&apos;re looking closely, you can see that some of the paint covers a small metal plate that is screwed in to the boulder.
+
+The dog trots away to the southeast.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c98b28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c98b28">
+    <command xml:space="preserve">unscrew plate</command>
+    <result xml:space="preserve">What do you want to unscrew the metal plate with?
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c98c00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c98c00">
+    <command xml:space="preserve">screwdriver</command>
+    <result xml:space="preserve">(first taking the screwdriver)
+You unscrew the metal plate.
+
+You open the metal plate, revealing a keypad.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x8c98cd8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x8c98cd8">
+    <command xml:space="preserve">x keypad</command>
+    <result xml:space="preserve">Ten metal buttons -- the numbers 0-9 -- smoothed by years of pressing.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>

@@ -373,7 +373,7 @@ Third Pump begins when
 	
 When Third Pump begins:
 	record "turning on the big pump" as achieved;
-	say "The tank starts to shudder violently. Below you, you hear a loud grinding noise that seems to spread into the pond -- in fact, it looks like the pond [bold type]itself[roman type] is starting to shudder --[paragraph break]It is definitely moving, shaking and quivering, water spilling out onto the beaches.[if the rowboat is in Other Side of the Pond][line break]Even your boat is carried away by the shuddering waves, floating and bobbing back to the boat house.[paragraph break][end if] The crystal spire rises several feet more out of the water, and something else, too. A weird, lumpy island, rising up from the pond to the north of the spire.";
+	say "The tank starts to shudder violently. Below you, you hear a loud grinding noise that seems to spread into the pond -- in fact, it looks like the pond [bold type]itself[roman type] is starting to shudder --[paragraph break]It is definitely moving, shaking and quivering, water spilling out onto the beaches.[if the rowboat is in Other Side of the Pond][paragraph break]Even your boat is carried away by the shuddering waves, floating and bobbing back to the boat house.[paragraph break][end if] The crystal spire rises several feet more out of the water, and something else, too. A weird, lumpy island, rising up from the pond to the north of the spire.";
 	change the north exit of Floating on the Pond to Weedy Island;
 	change the north exit of Spireland to Weedy Island;
 	change the south exit of Weedy Island to Floating on the Pond;
@@ -433,7 +433,7 @@ Every turn when the conductor's story has been happening for exactly one turn:
 To end the conductor's story:
 	say "The train comes to a halt.[paragraph break]";
 	now the station of the steam train is Freshwater Crossing;
-	say "'Well, we're here. I gotta -- gotta, er, prepare the train for storage, and go get on the boat.' He shakes your hand gravely. 'It was nice to meet you, however this turns out! I hope I'll be back to this train someday, but even if not, well, there's other trains in the sea! Or, well, in the pond!' He flashes you a final, wistful smile -- then slips out of the train.";
+	say "'Well, we're here. I gotta -- gotta, er, prepare the train for storage, and go get on the boat.' He shakes your hand gravely. 'It was nice to meet you, however this turns out! I hope I'll be back to this train someday, but even if not, well, there's other trains in the sea! Or, well, in the pond!' He flashes you a final, wistful smile, and is gone.";
 	now the conductor is off-stage;
 	now the Steam Train is flooded.
 	
@@ -771,7 +771,7 @@ Carry out train-waiting:
 
 Waiting more is an action applying to one number.
 
-Understand "wait [a time period]" or "wait for [a time period]" or "wait for a/an [a time period]" or "wait a/an [a time period]" or "z [a number]" or "wait [a number] min" as waiting more.
+Understand "wait [a time period]" or "wait for [a time period]" or "wait for a/an [a time period]" or "wait a/an [a time period]" or "z [a number]" as waiting more.
 
 Carry out waiting more:
 	let the target time be the time of day plus the time understood;
@@ -816,7 +816,7 @@ Carry out asking for help (this is the help request rule):
 Carry out crediting:
 	say "[bold type]Wetlands[roman type] is written and programmed by Clara Raubertas, copyright 2011. Clara is a programmer and musician living in New England; she welcomes comments or bug reports on Wetlands at clara.raubertas@gmail.com.
 	[paragraph break]Wetlands is written in Inform 7; thanks to the creators of this great tool and of the several extensions used in this game.
-	[paragraph break]Constant alpha-testing and valuable advice provided by Jesse Raber. Beta-testing by Michael Fransioli, Chris Conley, Tucker Bennett, Eric Purdy, Katherine McFall, Alex Amann, Ashley Meyer, Ruth Raubertas and Dan Pratt."
+	[line break]Constant alpha-testing and valuable advice provided by Jesse Raber. Beta-testing by Michael Fransioli, Chris Conley, Tucker Bennett, Eric Purdy, Katherine McFall, Alex Amann, Ashley Meyer, Ruth Raubertas and Dan Pratt."
 
 	
 Hinting is an action out of world. Understand "hint" or "hints" as hinting.
@@ -880,8 +880,9 @@ Carry out requesting the full score:
 After taking the ticket: 
 	record "finding a ticket" as achieved;
 	continue the action.
-Every turn when the player encloses the old key: 
-	record "finding a key" as achieved.
+After taking the old key: 
+	record "finding a key" as achieved;
+	continue the action.
 After taking the flashlight:
 	record "acquiring a flashlight" as achieved;
 	continue the action.
@@ -996,7 +997,7 @@ The player is carrying the page torn out of a children's book. The description o
 
 Understand "illustration/image/drawing" as the page torn out of a children's book.
 
-The description of the player is "You've always considered yourself pretty average in the physical department  -- average height, average build, average looks. Maybe a little more athletic than the average person, or with a slightly better sense of direction.[paragraph break]You are wearing [a list of things worn by the player].[if the player has been trapped][paragraph break]You are covered in mud.[end if]"
+The description of the player is "You've always considered yourself pretty average in the physical department  -- average height, average build, average looks. Maybe a little more athletic than the average person, or with a slightly better sense of direction.[paragraph break]You are wearing [a list of things worn by the player]."
 
 The player is wearing your tall rubber boots. The description of the boots is "They are canary yellow, and should keep your feet dry in all but the most extreme of situations." Understand "boot" as the boots.
 
@@ -1041,10 +1042,6 @@ Section - Outside Waterworks
 Outside Waterworks is a room. "You are standing on a paved [path] leading uphill to the south and downhill to the north.[paragraph break]To the east is a broad brick building on which a lighted archway frames a[if the door to the waterworks is closed] closed[otherwise]n open[end if] door; a water fountain[if the fountain is switched on], spewing water,[end if] stands to one side in the archway. [if First Pump is happening][one of]A blinking light above the door to the building catches your eye[or]The warning light above the door is blinking[stopping].[end if][paragraph break]To the west you can see what looks like a [pond], with a small structure rising from the water to the northwest, although [a chain-link fence] is blocking you from going right up to the pond. [if at least one pump is switched on]A crystal spire emerges from the water in the center of the pond, sparkling brilliantly in the sunlight. [end if][paragraph break]The ground dips a little on this side of the fence, exposing a large rusty pipe."
 
 The description of the large rusty pipe is "Just about wide enough for you to put your arms around, if it weren't [if the player is in Outside Waterworks]mostly underground[otherwise]underwater[end if]. It probably connects the pond with the building."
-
-Understand "hug [something]" as hugging. Hugging is an action applying to one thing. Understand "put arms around [something]" or "put my arms around [something]" as hugging.
-Instead of hugging the large metal pipe, say "You wrap your arms around the pipe, touching the damp ground with your palms." 
-Instead of hugging a person, try kissing the object.
 
 Understand "knock on [something]" as knocking on. Knocking on is an action applying to one thing.
 
@@ -1110,7 +1107,7 @@ The water fountain is a device in Outside Waterworks.
 
 Understand "fountain body" as the fountain. The fountain is metal.
 	
-The description of the fountain is "The water fountain is made of bronze; the entire fountain body is shaped like a splash of water.[if switched on] [paragraph break]The fountain is spewing clean water.[end if]"
+The description of the fountain is "The water fountain is made of bronze; in a weird display of mimesis, the entire fountain body is shaped like a splash of water.[if switched on] [paragraph break]The fountain is spewing clean water.[end if]"
 
 After switching on the fountain, now running water is in Pathland. Some running water is a liquid source. The liquid of running water is clean water. Running water is undescribed. Understand "water" as running water. The description of running water is "Clean running water, spewing from the fountain."
 
@@ -1550,7 +1547,7 @@ Instead of closing the desk, try closing the drawer.
 
 The tall cylinder is in Inside Waterworks. The tall cylinder is scenery. The description of the tall cylinder is "A transparent plastic cylinder almost as high as the ceiling, and filled up almost to the brim with water; bubbles are emerging from the bottom of the cylinder, rising slowly to the top.[paragraph break]A red keychain with a small brass key on it is floating on the top of the water."  Understand "transparent/plastic" as the tall cylinder. The foam keychain is in the tall cylinder. Understand "red" as the keychain. Understand "keys" as the keychain. Instead of taking something that is enclosed by the tall cylinder, say "The cylinder is much too high to reach the opening at the top[if the player is on something], even from [the holder of the player][end if]." Instead of taking something that is in the tall cylinder when the player is on something, say "The cylinder is much too high to reach the opening at the top, even while standing on something." Instead of attacking the tall cylinder, say "You pound on the cylinder, but seems to be impervious to your efforts.[if the secretary is visible][line break][one of]'The key's not coming out of there,' [the secretary] says[or][The secretary] shakes her head at you[stopping].[end if]" 
 
-Instead of pulling or pushing the tall cylinder, say "It seems to be firmly fixed in place." Instead of inserting something into the tall cylinder, say "It's much too high to reach the opening at the top." Instead of climbing the tall cylinder, say "It's too smooth." Instead of pouring something into the tall cylinder, say "It's much too high to reach the opening at the top." Instead of touching the tall cylinder, say "It's completely smooth." Understand "bubbles" as bubbling water. Understand "cylinder of water" as the tall cylinder.
+Instead of pulling or pushing the tall cylinder, say "It seems to be firmly fixed in place." Instead of inserting something into the tall cylinder, say "It's much too high to reach the opening at the top." Instead of climbing the tall cylinder, say "It's too smooth." Instead of pouring something into the tall cylinder, say "It's much too high to reach the opening at the top." Instead of touching the tall cylinder, say "It's completely smooth." Understand "bubbles" as bubbling water. 
 
 Instead of throwing something at the tall cylinder: 
 	say "You toss [the noun] at the cylinder, but it bounces harmlessly to the ground.";
@@ -1852,9 +1849,9 @@ topic			commentary
 "beach"		"[one of]'There's some beach area on the other side of the fence. It's pretty much more mud than, like, nice seaside beach, though.'[or]She directs you to the other side of the fence.[stopping]"
 "mud/marsh"		"[one of]'I know!' She giggles. 'It's easy to get stuck in the mud over by the marsh.'[or]She rolls her eyes and goes into a diatribe about the ubiquitous mud.[stopping]"
 "machine/levers/gadgets/gizmos/gizmoes/lever/gadget/gizmo/"		"[one of]She wrinkles her nose. 'Look, I don't really understand that stuff, and it's supposed to be classified, anyway. The qualified technicians. Right?'[or]Again, she invokes the technicians.[stopping]"
-"system/process/processing"		"[one of]'Uh.' She looks at her notebook. 'I'm not supposed to talk about it.'[or]She just shuts her mouth pointedly.[stopping]"
+"system"		"[one of]'Uh.' She looks at her notebook. 'I'm not supposed to talk about it.'[or]She just shuts her mouth pointedly.[stopping]"
 "dog"		"[one of]'We call him Ebba. He just sort of, runs around the community, you know? He's super friendly.'[or]She tells you a little story about the dog's previous owner.[stopping]"
-"boss/manager"		"[one of]'OK, it's actually my mom! She's still going to be mad if I tell you stuff, though.'[or]She starts complaining a little about her mom making her work here, which you ignore.[stopping]"
+"boss"		"[one of]'OK, it's actually my mom! She's still going to be mad if I tell you stuff, though.'[or]She starts complaining a little about her mom making her work here, which you ignore.[stopping]"
 "mom/mother"		"[one of]'OK, it was really nice of her to get me this job! She's really organized like that -- always finding stuff for people to do.'[or]She tells you that her mom is organized and efficient.[stopping]"
 "dad/father"	"[one of]'He's always kind of joking around like that, throwing stuff and whatever. Usually it's funny!'[or]She tells you that her dad likes to joke around.[stopping]"
 "stairs/staircase/deathtrap"		"[one of]'The stairs are kind of a deathtrap. But mostly just the technicians are supposed to go down there anyway.'[or]She reminds you that only technicians are supposed to enter the pump room anyway.[stopping]"
@@ -1873,8 +1870,7 @@ topic			commentary
 "me/myself"	"[one of]'I don't know, tell me about yourself!' she says, laughing.[or]She smiles and reminds you that she doesn't know much about you.[stopping]"
 "birds/geese/larks/starlings/bird/starling/goose/lark/heron/magpie/magpies/teal/mallard/mallards/herons/siege/bitterns"	"[one of]'Yeah, they're everywhere! I think they're pretty.'[or]She smiles, telling you about some of the kinds of birds that live in the area.[stopping]"
 "woods/forest"	"[one of]'It's easy to get lost in there,' she says, pushing her hair out of her face.[or]She mentions a time when she got lost in the woods for the better part of a day.[stopping]"
-"key/keychain/red/foam/brass"	"[one of]'Oh, jeez, you're probably wondering how the key got in that cylinder!'  She laughs. 'My dad and I were kidding around, throwing it at each other, and he ended up tossing it in there by mistake. So now we have to wait until he has a chance to bring a ladder or something over in order to get it out.'[or]She laughs, telling you how her dad threw the keychain in the cylinder while joking around -- but now no one can get it out without a ladder.[stopping]"
-"family"		"[one of]'Well, Mom runs this place, and Dad is the building manager over at the community center.'[or]She tells you that her mom is a skilled manager and her dad is something of a prankster.[stopping]"
+"key/keychain/red/foam/brass"	"[one of]'Oh, jeez, you're probably wondering how the key got in that cyliner!' She laughs. 'My dad and I were kidding around, throwing it at each other, and he ended up tossing it in there by mistake. So now we have to wait until he has a chance to bring a ladder or something over in order to get it out.'[or]She laughs, telling you how her dad threw the keychain in the cylinder as a joke -- but now no one can get it out without a ladder.[stopping]"
 "cylinder/bubbling"	"[one of]'It's just for show, really. A demonstration of the clean water we produce.'[or]She smiles, asking you to check out how clear the water is.[stopping]" 
 "gull"	"[one of]'Ugh, those things are annoying!'[or]She wrinkles her nose when you mention the gull.[stopping]"
 "family"		"[one of]'Well, my mom's the manager here, and my dad does building maintenance over at the community center.'[or]She talks a little about her parents.[stopping]"
@@ -1928,7 +1924,7 @@ Understand "building" as Visitor Center when the player is in the Hill.
 The carpet of leaves is scenery in the Hill. The description of the carpet of leaves is "They crunch satisfyingly under your feet." Instead of taking the leaves, say "You pick up a few, but then let them drift through your fingers again; you don't need to carry them around."
 The church is scenery in the Hill. The description of the church is "A white building with a steeple, too far away to make out details." Understand "leaf" as the carpet of leaves.
 
-The bench is an enterable supporter in the Hill. The description of the bench is "A wooden bench in several layers of chipped green paint in different shades; it's obviously been here for years, accumulating witticisms like '[one of]Kate loves Marta[or]Mark was here[or]Bennie and Taylor 4eva![at random]' and '[one of]Trains rule![or]u r living ur life[or]SMILE![at random]'". Understand "paint/green/layers" as the bench. The bench is scenery.
+The bench is an enterable supporter in the Hill. The description of the bench is "A wooden bench in several layers of chipped green paint in different shades; it's obviously been here for years, accumulating witticisms like '[one of]Kate loves Marta[or]Mark was here[or]Bennie and Taylor 4eva![at random]' and '[one of]Trains rule![or]u r living ur life[or]SMILE![at random]'". Understand "paint/green/layers" as the bench.
 
 The twisty stairs are a backdrop. The stairs are in the Hill. The stairs are in Freshwater Crossing. The description of the stairs is "The stairs are made from pieces of gray slate, long cracked and broken by erosion."
 
@@ -2121,13 +2117,11 @@ The pamphlet is on the shelf. A thing called a train schedule is on the shelf. T
 
 The ticket is in the vending machine. The description of the ticket is "A little torn, but still good -- in fact, it's a monthly pass with a week left on it." The newspaper is in the vending machine. The description of the newspaper is "Last week's Pondside Times.[paragraph break]One piece, titled 'Rolling for 25 Years!', gives a profile of the train system (which celebrated its quarter-centennial last week, apparently) and the train conductor (who explains that running the train has been his lifelong ambition).[paragraph break]On another page, you can see a list of sixth graders who made the honor roll.[paragraph break]On another page, you see a human-interest profile of the woman who runs the Waterworks -- she tells the interviewer that her daughter is getting valuable work experience at a part-time job working the Waterworks desk.[paragraph break]The facing page features classified ads -- someone looking for tutoring in Algebra, someone trying to sell her mural-painting services, someone looking for a dance partner."
 
-Understand "ads/profile" as the newspaper. 
+Understand "ads" as the newspaper. 
 
 The honor roll is part of the newspaper. The description of the honor roll is "Jesse R.[line break]Michael F.[line break]Chris C.[line break]Tucker B.[line break]Eric P.[line break]Alex A.[line break]Katherine M.[line break]Ashley M.[line break]Dan P.[line break]Ruth R."
 
 The tracks are a backdrop. The tracks are in Freshwater Crossing. The tracks are in the room called Other Side of the Pond. The tracks are metal.
-
-Understand "cross [the tracks]" as a mistake ("This seems like the right side of the tracks.") when the tracks are visible.
 
 Instead of inserting something into the slot:
 	if the noun is not the small rock, say "You try to wedge the [noun] into the slot, but it doesn[']t seem to fit." instead;
@@ -2538,7 +2532,7 @@ Instead of going nowhere from Grassy Area, say "You take a few steps to [the nou
 
 Section - Other Side of the Pond
 
-Other Side Of the Pond is a room. The description of Other Side Of the Pond is "A foggy clearing in the woods that fades out into a small, dirty beach -- the railroad tracks pass through, entwined in purple viburnum vines, straight lines over the damp ground. [paragraph break]To the east is the shore of the familiar pond, with a few stone steps leading into the misty water, and in every other direction, you can enter the dense woods. Water seems to be [if the underground pump is switched off]trickling faintly over the wet steps from an unseen hole[otherwise]pumping steadily up onto the steps from an unseen hole[end if].[if the big pump is switched on][paragraph break]The water level is much higher than before. The dirt here has turned to mud, and you are almost sinking in your boots.[end if][if the rowboat is moved][paragraph break]You can see the faint traces in the mud left by your boat as the pond's rising carried it back toward the boat house.[end if][if the station of the Steam Train is Other Side Of the Pond][paragraph break]A train is stopped on the tracks, puffing steam.[end if]"
+Other Side Of the Pond is a room. The description of Other Side Of the Pond is "A foggy clearing in the woods that fades out into a small, dirty beach -- the railroad tracks pass through, entwined in purple viburnum vines, straight lines over the damp ground. [paragraph break]To the east is the shore of the familiar pond, with a few stone steps leading into the misty water, and in every other direction, you can enter the dense woods. Water is [if the underground pump is switched off]trickling faintly onto the wet steps from underground[otherwise]pumping steadily up onto the steps from an unseen hole[end if].[if the big pump is switched on][paragraph break]The water level is much higher than before. The dirt here has turned to mud, and you are almost sinking in your boots.[end if][if the rowboat is moved][paragraph break]You can see the faint traces in the mud left by your boat as the pond's rising carried it back toward the boat house.[end if][if the station of the Steam Train is Other Side Of the Pond][paragraph break]A train is stopped on the tracks, puffing steam.[end if]"
 
 After looking in Other Side of the Pond while First Pump is happening and we have not examined the pondy crystal spire:
 	say "A glint of light from the pond catches your eye." 
@@ -2707,8 +2701,6 @@ A room called Inside The Cinderblock Hut is inside from Small Clearing. "A small
 
 The room called Inside the Cinderblock Hut is indoors.
 
-After going to Inside the Cinderblock Hut for the first time, say "The machine looks somewhat intimidating, and you know you can't predict what will happen if you turn it on. But your curiosity about the Crystal City has not abated."
-
 The cinderblock walls are scenery in Inside the Cinderblock Hut. The description of the cinderblock walls is "Ordinary cinderblock walls, except for the deep crack in the south wall."
 
 The deep crack is part of the cinderblock walls. The deep crack is a container. The old key is a passkey. The old key is in the deep crack. The description of the deep crack is "A narrow crack extending some inches into the cinderblock wall. [if the crack contains something][paragraph break]There seems to be [a list of things in the crack] in there.[otherwise]It seems to be empty.[end if]"
@@ -2782,9 +2774,7 @@ Instead of the dog going inside from Small Clearing when Inside the Cinderblock 
 
 Instead of entering the hut, try going inside.
 
-A keypad is in the metal plate. The keypad is fixed in place. The description of the keypad is "Ten metal buttons -- the numbers 0-9 -- smoothed by years of pressing." Understand "buttons/button" as the keypad.
-
-Understand "press [the keypad]" as a mistake ("TYPE the numbers you wish to enter.")
+A keypad is in the metal plate. The keypad is fixed in place. The description of the keypad is "Ten metal buttons -- the numbers 0-9 -- smoothed by years of pressing." Understand "buttons" as the keypad.
 
 Typing is an action applying to one number and one thing. Understand "type [number] on [thing]" as typing. Understand "type [number]" as typing. Understand "enter [number] on [thing]" as typing. Understand "enter [number]" as typing. Understand "press [number]" as typing.
 
@@ -3147,7 +3137,7 @@ The tall spire is scenery in the Crystal City. The description of the tall spire
 
 The figures are scenery in the Crystal City. The description of the figures is "Vivian, Cordelia, and Douglas."
 
-The underwater pump is in the Crystal City. Understand "shell/crystal" as the underwater pump.
+The underwater pump is in the Crystal City.
 
 Some coatings of algae, some kelp twisted into ropy trees, and some ribbons of pondweed are scenery in the Crystal City.
 
@@ -3166,9 +3156,9 @@ Cordelia is a woman in the Crystal City. Douglas is a man in the Crystal City.
 The description of Cordelia is "A wet, freckled person."
 The description of Douglas is "A wet, gangly person."
 
-Cordelia is wearing Cordelia's tangle of tubes. The description of Cordelia's tangle of tubes is "Cordelia is wearing the same tangle of clear plastic tubes that everyone here seems to wear."
+Cordelia is wearing Cordelia's tangle of tubes. The description of Cordelia's tangle of tubes is "The same tangle of clear plastic tubes that everyone here seems to wear."
 
-Douglas is wearing Douglas's tangle of tubes. The description of Douglas's tangle of tubes is "Douglas is wearing the same tangle of clear plastic tubes that everyone here seems to wear."
+Douglas is wearing Douglas's tangle of tubes. The description of Douglas's tangle of tubes is "The same tangle of clear plastic tubes that everyone here seems to wear."
 
 A blue switch is part of the underwater pump. A yellow switch is part of the underwater pump. A green switch is part of the underwater pump. A purple switch is part of the underwater pump. The blue switch is a switch. The yellow switch is a switch. The green switch is a switch. The purple switch is a switch.
 
@@ -3435,8 +3425,6 @@ After boarding:
 	otherwise if the conductor is not satisfied:
 		say "The conductor checks your ticket, and smiles at you. 'Thanks, friend!' he says.";
 		now the conductor is satisfied;
-	otherwise if the player has been trapped:
-		say "[one of]'Had a fall in the mud? Bad luck.' says the conductor[or]The conductor glances sympathetically at your muddy condition[stopping].";
 	otherwise:
 		say "The conductor smiles[one of]. 'Hello, again! Welcome aboard!'[line break][or]. 'Welcome back!'[line break][or], and waves you aboard.[stopping]";
 	record "getting on a train" as achieved.
@@ -3505,8 +3493,6 @@ topic			commentary
 "adriana/secretary"		"[one of]'Who, the secretary over at the Waterworks? Yeah, we've met. Nice gal. Kinda flaky, though.'[or]He says something vague and inoffensive about [the secretary].[stopping]"
 "px1105/rolling/resistance/boiler/steam/stoker/mechanical/mechanic/locomotive/2-6-2/stock/local"	"The conductor gives you a technical explanation that you don't follow."
 "property/train property"	"[one of]'The train's gotta have tools!'[or]He tells you again that the tools belong to the train.[stopping]"
-"evacuation/warning lights"		"[one of]'We have some emergency protocols in place.'[or]He tells you he's not supposed to talk about it[stopping]"
-"mud"	"[one of]'Easy to slip in! We have that problem a lot.'[or]He makes a joke about the mud, chuckling.[stopping]"
 "seat"		"[one of]'Kinda old, I know. But the mechanics of the train are what's important!'[or]He laments the stains on the seat.[stopping]"
 "church"		"[one of]'Hmm, I'm not sure... maybe you're thinking of the Community Center?'[or]He reminds you that you're probably thinking of the Community Center.[stopping]"
 "community/community center"	"[one of]'The Community Center's across the pond, but the train doesn't go there.'[or]He reminds you that the train doesn't go there.[stopping]"
