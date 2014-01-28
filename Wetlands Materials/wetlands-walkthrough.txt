@@ -1,0 +1,214 @@
+climb fence
+take bottle
+ne
+take rock
+climb fence
+s
+e
+put rock in machine
+open machine
+take all
+w
+sw
+wait for train
+get on train
+ask conductor about train
+open panel
+take all
+z
+nap
+get out
+w
+l
+n
+n
+nw
+x boulder
+x splash
+unscrew plate with screwdriver
+w
+e
+wait for train
+get on train
+nap
+get out
+ne
+n
+climb fence
+ne
+x drawer
+push square with screwdriver
+take blueprint
+climb fence
+s
+sw
+wait for train
+get on train
+nap
+get out
+w
+nw
+x blueprint
+x keypad
+type 30359
+enter hut
+turn on machine
+out
+s
+e
+x pond
+wait for train
+get on train
+nap
+get out
+ne
+s
+take sap with bottle
+n
+n
+e
+take notebook
+open desk
+take all
+d
+x device
+x levers
+x notebook
+flip blue
+flip yellow
+flip purple
+x gadgets
+put shiny key in gadget
+x gizmoes
+turn on triangular
+turn on square
+turn bolt with wrench
+put sap on hose
+u
+out
+take keychain
+i
+climb fence
+ne
+ne
+turn on detector
+dig in spot
+take magnet
+climb fence
+s
+sw
+wait for train
+get on train
+follow secretary
+l
+z
+z
+z
+z
+z
+ne
+wait for train
+get on train
+nap
+get out
+w
+nw
+enter hut
+put magnet near crack
+put key in left pocket
+out
+e
+e
+wait for train
+get on train
+nap
+get out
+ne
+n
+climb fence
+ne
+w
+unlock structure
+w
+turn on flashlight
+e
+sw
+x sticks
+take stick
+ne
+w
+get in boat
+row w with stick
+sw
+nw
+n
+unlock center
+n
+take flag
+i
+s
+get in boat
+row se
+w
+w
+nw
+sw
+climb tank
+jump
+turn wheel
+put pole in holes
+turn wheel
+d
+ne
+e
+e
+wait for train
+get on train
+z
+z
+z
+z
+z
+z
+z
+z
+z
+get out
+ne
+climb tree
+get on bench
+climb tree
+take chimes
+d
+n
+climb fence
+ne
+w
+get in boat
+w
+n
+open box
+take mask
+wear mask
+swim
+ring chimes
+l
+z
+z
+z
+l
+x pump
+x switches
+flip blue
+flip yellow
+flip purple
+l
+l
+l
+l
+put wrench in cavity
+l
+l
+l
+l
+l
